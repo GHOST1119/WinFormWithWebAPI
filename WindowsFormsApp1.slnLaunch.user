@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "WebAPI\\WebAPI.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "WebAPI"
+      }
+    ]
+  }
+]

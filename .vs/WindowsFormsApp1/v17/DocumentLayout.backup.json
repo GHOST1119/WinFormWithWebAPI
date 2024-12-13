@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC02A10D-7AE3-466D-9874-6CA25F97B127}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC02A10D-7AE3-466D-9874-6CA25F97B127}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|c:\\users\\erfan\\source\\repos\\windowsformsapp1\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC02A10D-7AE3-466D-9874-6CA25F97B127}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\erfan\\source\\repos\\windowsformsapp1\\windowsformsapp1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC02A10D-7AE3-466D-9874-6CA25F97B127}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC02A10D-7AE3-466D-9874-6CA25F97B127}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC02A10D-7AE3-466D-9874-6CA25F97B127}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|c:\\users\\erfan\\source\\repos\\windowsformsapp1\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|c:\\users\\erfan\\source\\repos\\windowsformsapp1\\webapi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|c:\\users\\erfan\\source\\repos\\windowsformsapp1\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|c:\\users\\erfan\\source\\repos\\windowsformsapp1\\webapi\\dbcontext\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dbcontext\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|c:\\users\\erfan\\source\\repos\\windowsformsapp1\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F272D79F-16A0-45CA-90F9-16DC0F8BF863}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Models\\Products.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:29:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:30:04.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\Models\\Products.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:21:24.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:40:45.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAA5wCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:54:15.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\Startup.cs",
+              "RelativeToolTip": "WebAPI\\Startup.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:31:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\DBContext\\WebStoreContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DBContext\\WebStoreContext.cs",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\DBContext\\WebStoreContext.cs",
+              "RelativeToolTip": "WebAPI\\DBContext\\WebStoreContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:29:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T16:57:40.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\erfan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:48:49.746Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
